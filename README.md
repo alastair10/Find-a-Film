@@ -1,20 +1,5 @@
 # Find-a-Film
-
 [<img src="https://img.shields.io/endpoint?url=https://cloud.cypress.io/badge/simple/9qni5u&style=flat&logo=cypress" height="25px" />](https://cloud.cypress.io/projects/9qni5u/runs)
-
-## Contents
-
-[Web Application Features](#web-application-features)
-
-[Why it was built](#why-this-app-was-built)
-
-[How the product was built](#how-the-product-was-built)
-
-[Product Timeline](#📅-product-timeline)
-
-[How to Use This App](#how-to-use-this-app)
-
-## Web Application Features
 
 `Find-a-Film` is a web application that provides an easy to use interface for
 users to decide what movie to watch. It fetches from multiple data sources to
@@ -25,6 +10,18 @@ provide the user with all they need to make the best movie choice.
 - Provides key information with a clean UI
 - Sorting functions
 - Responsive design
+
+<img src="https://media.giphy.com/media/izq59WcvtoKHT1YLGf/giphy.gif" width="500">
+
+## Contents
+
+[Why it was built](#why-this-app-was-built)
+
+[How the product was built](#how-the-product-was-built)
+
+[Product Timeline](#📅-product-timeline)
+
+[How to Use This App](#how-to-use-this-app)
 
 ## Why this App was built
 
